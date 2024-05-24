@@ -1,0 +1,416 @@
+citi,n_citi
+"Salton City, CA",317
+"Brawley, CA",48
+"Imperial, CA",152
+"Calexico, CA",55
+"Gorman, CA",129
+"Frazier Park, CA",122
+"Rosamond, CA",312
+"Kernville, CA",164
+"Tehachapi, CA",367
+"Arvin, CA",20
+"California City, CA",57
+"Bakersfield, CA",24
+"Delano, CA",99
+"Lebec, CA",196
+"Pine Mountain Club, CA",282
+"Inyokern, CA",156
+"Mojave, CA",220
+"Boron, CA",45
+"Stallion Springs, CA",357
+"Ridgecrest, CA",308
+"Keene, CA",163
+"Caliente, CA",56
+"Bear Valley Springs, CA",28
+"Wofford Heights, CA",409
+"Studio City, CA",360
+"Glendale, CA",126
+"Eagle Rock, CA",106
+"Rancho Palos Verdes, CA",301
+"Woodland Hills, CA",410
+"Montebello, CA",223
+"Los Angeles, CA",207
+"Culver City, CA",94
+"Long Beach, CA",204
+"Walnut, CA",395
+"Rowland Heights, CA",315
+"Porter Ranch, CA",292
+"Newhall, CA",239
+"Covina, CA",91
+"Santa Monica, CA",337
+"San Marino, CA",328
+"Agoura Hills, CA",3
+"Stevenson Ranch, CA",359
+"La Canada Flintridge, CA",165
+"Arcadia, CA",16
+"Pasadena, CA",274
+"El Segundo, CA",112
+"El Monte, CA",111
+"Torrance, CA",376
+"Altadena, CA",10
+"Encino, CA",114
+"Downey, CA",103
+"Sherman Oaks, CA",346
+"Monrovia, CA",221
+"Northridge, CA",247
+"Sunland, CA",364
+"Azusa, CA",23
+"Valley Glen, CA",385
+"Castaic, CA",70
+"Tarzana, CA",366
+"Burbank, CA",52
+"Diamond Bar, CA",102
+"Hacienda Heights, CA",136
+"Canyon Country, CA",63
+"Van Nuys, CA",387
+"West Covina, CA",397
+"Sierra Madre, CA",347
+"Alhambra, CA",6
+"Beverly Hills, CA",35
+"Venice, CA",389
+"Inglewood, CA",155
+"Westchester, CA",400
+"Valley Village, CA",386
+"Glendora, CA",127
+"San Gabriel, CA",323
+"La Verne, CA",176
+"Malibu, CA",212
+"Redondo Beach, CA",305
+"Playa del Rey, CA",289
+"Palos Verdes Estates, CA",269
+"Whittier, CA",404
+"Pomona, CA",290
+"Toluca Lake, CA",374
+"Shadow Hills, CA",344
+"Hermosa Beach, CA",142
+"Claremont, CA",81
+"South Pasadena, CA",355
+"Pacific Palisades, CA",263
+"Calabasas, CA",54
+"West Hollywood, CA",399
+"Temple City, CA",369
+"Lancaster, CA",193
+"Littlerock, CA",199
+"Palmdale, CA",267
+"Pearblossom, CA",277
+"Lake Los Angeles, CA",188
+"North Hollywood, CA",245
+"Sylmar, CA",365
+"Lake Hughes, CA",187
+"Santa Clarita, CA",333
+"Llano, CA",200
+"Acton, CA",1
+"Reseda, CA",306
+"La Mirada, CA",172
+"Lake Elizabeth, CA",184
+"Paramount, CA",272
+"San Pedro, CA",330
+"Green Valley, CA",133
+"Compton, CA",85
+"Huntington Park, CA",149
+"Juniper Hills, CA",162
+"Quartz Hill, CA",295
+"Leona Valley, CA",198
+"Agua Dulce, CA",4
+"San Fernando, CA",322
+"Pico Rivera, CA",281
+"Hawaiian Gardens, CA",138
+"Mt Baldy, CA",232
+"Gardena, CA",125
+"La Puente, CA",174
+"Artesia, CA",19
+"Baldwin Park, CA",25
+"Norwalk, CA",248
+"Tujunga, CA",378
+"Bell Gardens, CA",30
+"Carson, CA",69
+"Pacoima, CA",264
+"Bellflower, CA",32
+"Bell, CA",31
+"Lynwood, CA",211
+"East Los Angeles, CA",107
+"South El Monte, CA",353
+"Canoga Park, CA",62
+"Chatsworth, CA",76
+"Granada Hills, CA",130
+"South Gate, CA",354
+"Lakewood, CA",192
+"Wilmington, CA",406
+"Val Verde, CA",382
+"Saugus, CA",342
+"Commerce, CA",84
+"Valencia, CA",383
+"Santa Fe Springs, CA",334
+"Topanga, CA",375
+"Arleta, CA",17
+"Sun Valley, CA",363
+"La Crescenta, CA",167
+"Winnetka, CA",408
+"Rosemead, CA",313
+"Panorama City, CA",270
+"Monterey Park, CA",225
+"Hawthorne, CA",139
+"Phillips Ranch, CA",280
+"Mission Hills, CA",217
+"Duarte, CA",104
+"North Hills, CA",244
+"San Dimas, CA",321
+"West Hills, CA",398
+"Lake Balboa, CA",183
+"Hollywood, CA",146
+"Lawndale, CA",195
+"Cerritos, CA",75
+"Los Feliz, CA",208
+"Lakeview Terrace, CA",191
+"Lomita, CA",202
+"Harbor City, CA",137
+"Highland Park, CA",144
+"Montrose, CA",226
+"View Park, CA",392
+"Echo Park, CA",108
+"Costa Mesa, CA",89
+"Fullerton, CA",123
+"Laguna Beach, CA",178
+"Rancho Santa Margarita, CA",303
+"Ladera Ranch, CA",177
+"Huntington Beach, CA",148
+"Anaheim Hills, CA",11
+"Newport Beach, CA",240
+"San Juan Capistrano, CA",325
+"Lake Forest, CA",186
+"Orange, CA",259
+"Laguna Niguel, CA",180
+"Aliso Viejo, CA",7
+"Irvine, CA",157
+"Garden Grove, CA",124
+"Placentia, CA",288
+"Los Alamitos, CA",205
+"San Clemente, CA",319
+"Dana Point, CA",97
+"Mission Viejo, CA",218
+"Coto de Caza, CA",90
+"La Habra, CA",169
+"Westminster, CA",402
+"Rossmoor, CA",314
+"Laguna Hills, CA",179
+"Yorba Linda, CA",412
+"Fountain Valley, CA",121
+"North Tustin, CA",246
+"Trabuco Canyon, CA",377
+"La Habra Heights, CA",168
+"Santa Ana, CA",331
+"Seal Beach, CA",343
+"Brea, CA",49
+"Cypress, CA",96
+"Villa Park, CA",393
+"Tustin, CA",379
+"Newport Coast, CA",241
+"Corona del Mar, CA",86
+"Laguna Woods, CA",181
+"Anaheim, CA",12
+"Buena Park, CA",51
+"Silverado, CA",348
+"Stanton, CA",358
+"La Palma, CA",173
+"Midway City, CA",215
+"Modjeska Canyon, CA",219
+"La Quinta, CA",175
+"Temecula, CA",368
+"Rancho Mirage, CA",300
+"Palm Desert, CA",265
+"Indian Wells, CA",153
+"Palm Springs, CA",266
+"Canyon Lake, CA",64
+"Winchester, CA",407
+"Murrieta, CA",233
+"Bermuda Dunes, CA",34
+"Mountain Center, CA",231
+"Corona, CA",87
+"Riverside, CA",310
+"Indio, CA",154
+"Banning, CA",26
+"Thermal, CA",371
+"Menifee, CA",213
+"Norco, CA",243
+"Homeland, CA",147
+"Hemet, CA",141
+"Cherry Valley, CA",77
+"Wildomar, CA",405
+"Coachella, CA",82
+"San Jacinto, CA",324
+"Desert Hot Springs, CA",101
+"Lake Elsinore, CA",185
+"Perris, CA",278
+"Moreno Valley, CA",228
+"Anza, CA",14
+"Blythe, CA",42
+"Cathedral City, CA",71
+"Cabazon, CA",53
+"Nuevo, CA",249
+"Idyllwild, CA",150
+"Thousand Palms, CA",373
+"Beaumont, CA",29
+"Whitewater, CA",403
+"Sun City, CA",362
+"Aguanga, CA",5
+"Belltown, CA",33
+"Calimesa, CA",58
+"Mira Loma, CA",216
+"Romoland, CA",311
+"Chino Hills, CA",78
+"Rancho Cucamonga, CA",299
+"Lake Arrowhead, CA",182
+"Yucaipa, CA",413
+"Redlands, CA",304
+"Joshua Tree, CA",160
+"Big Bear, CA",38
+"Upland, CA",381
+"Bloomington, CA",40
+"San Bernardino, CA",318
+"Colton, CA",83
+"Chino, CA",79
+"Alta Loma, CA",9
+"Oak Glen, CA",250
+"Lucerne Valley, CA",210
+"Fontana, CA",119
+"Wrightwood, CA",411
+"Big Bear Lake, CA",37
+"Needles, CA",235
+"Running Springs, CA",316
+"Hesperia, CA",143
+"Pinon Hills, CA",284
+"Pioneertown, CA",285
+"Ontario, CA",258
+"Yucca Valley, CA",414
+"Apple Valley, CA",15
+"Cedarpines Park, CA",74
+"Victorville, CA",391
+"Helendale, CA",140
+"Crestline, CA",92
+"Morongo Valley, CA",229
+"29 Palms, CA",0
+"Sugarloaf, CA",361
+"Landers, CA",194
+"Angelus Oaks, CA",13
+"Adelanto, CA",2
+"Green Valley Lake, CA",132
+"Big Bear City, CA",36
+"Mentone, CA",214
+"Rimforest, CA",309
+"Phelan, CA",279
+"Oro Grande, CA",260
+"Fawnskin, CA",117
+"Barstow, CA",27
+"Cedar Glen, CA",73
+"Twin Peaks, CA",380
+"Forest Falls, CA",120
+"Highland, CA",145
+"Big River, CA",39
+"Loma Linda, CA",201
+"Rialto, CA",307
+"Newberry Springs, CA",237
+"Oak Hills, CA",251
+"Grand Terrace, CA",131
+"Montclair, CA",222
+"El Mirage, CA",110
+"Blue Jay, CA",41
+"San Diego, CA",320
+"San Marcos, CA",327
+"Carlsbad, CA",67
+"Encinitas, CA",113
+"Jamul, CA",159
+"Del Mar, CA",98
+"Chula Vista, CA",80
+"Poway, CA",294
+"Oceanside, CA",256
+"Solana Beach, CA",350
+"Fallbrook, CA",116
+"Bonita, CA",43
+"Bonsall, CA",44
+"La Mesa, CA",171
+"Ramona, CA",296
+"Coronado, CA",88
+"Vista, CA",394
+"Cardiff by the Sea, CA",65
+"El Cajon, CA",109
+"Escondido, CA",115
+"Valley Center, CA",384
+"Alpine, CA",8
+"Rancho Santa Fe, CA",302
+"La Jolla, CA",170
+"Imperial Beach, CA",151
+"Pacific Beach, CA",262
+"Cardiff, CA",66
+"Borrego Springs, CA",46
+"Julian, CA",161
+"Lakeside, CA",190
+"Spring Valley, CA",356
+"Boulevard, CA",47
+"Warner Springs, CA",396
+"National City, CA",234
+"Santee, CA",341
+"Ranchita, CA",297
+"Jacumba, CA",158
+"Campo, CA",61
+"Palomar Mountain, CA",268
+"Pauma Valley, CA",276
+"Descanso, CA",100
+"Santa Ysabel, CA",340
+"Pine Valley, CA",283
+"Lemon Grove, CA",197
+"Dulzura, CA",105
+"Rancho Bernardo, CA",298
+"Paradise Hills, CA",271
+"Potrero, CA",293
+"Ocean Beach, CA",254
+"Pismo Beach, CA",287
+"Paso Robles, CA",275
+"Los Osos, CA",209
+"Templeton, CA",370
+"Cambria, CA",60
+"Morro Bay, CA",230
+"Nipomo, CA",242
+"Arroyo Grande, CA",18
+"San Luis Obispo, CA",326
+"Avila Beach, CA",22
+"Cayucos, CA",72
+"Creston, CA",93
+"Atascadero, CA",21
+"San Miguel, CA",329
+"Santa Margarita, CA",335
+"Oceano, CA",255
+"Shandon, CA",345
+"Grover Beach, CA",134
+"Parkfield, CA",273
+"Santa Barbara, CA",332
+"Carpinteria, CA",68
+"Lompoc, CA",203
+"Santa Maria, CA",336
+"Montecito, CA",224
+"Santa Ynez, CA",339
+"Cuyama, CA",95
+"New Cuyama, CA",236
+"Los Alamos, CA",206
+"Solvang, CA",351
+"Guadalupe, CA",135
+"Vandenberg Village, CA",388
+"Buellton, CA",50
+"Goleta, CA",128
+"Westlake Village, CA",401
+"Ventura, CA",390
+"Camarillo, CA",59
+"Santa Paula, CA",338
+"Thousand Oaks, CA",372
+"Newbury Park, CA",238
+"Lake Sherwood, CA",189
+"Simi Valley, CA",349
+"Ojai, CA",257
+"Somis, CA",352
+"Oxnard, CA",261
+"Oak Park, CA",252
+"Moorpark, CA",227
+"Fillmore, CA",118
+"Oak View, CA",253
+"Port Hueneme, CA",291
+"Piru, CA",286
+"La Conchita, CA",166
