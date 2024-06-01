@@ -15,14 +15,6 @@ def index():
 
     return render_template('index.html', bedrooms=bedrooms, bathrooms=bathrooms, sizes=sizes, city_codes=city_codes)
 
-@app.route('/city-codes')
-def show_csv():
-    # Read your CSV data here (e.g., using pandas)
-    with open('cleaned_city_codes.csv', 'r') as f:
-        csv_data = f.readlines()
-        # Process data as needed (e.g., remove headers, etc.)
-
-    return render_template('csv_table.html', csv_data=csv_data)
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -40,11 +32,11 @@ def predict():
 
     # **Choose a strategy for handling unknown categories:**
     # Option 1: Impute with Most Frequent Category (modify as needed)
-    # for column in input_data.columns:
-    #     unknown_categories = set(input_data[column]) - set(data[column].unique())
-    #     if unknown_categories:
-    #         most_frequent = data[column].mode()[0]
-    #         input_data[column] = input_data[column].replace(unknown_categories, most_frequent)
+    for column in input_data.columns:
+        unknown_categories = set(input_data[column]) - set(data[column].unique())
+        if unknown_categories:
+            most_frequent = data[column].mode()[0]
+            input_data[column] = input_data[column].replace(unknown_categories, most_frequent)
 
     # Option 2: Impute with Mean/Median (modify as needed)
     # for column in input_data.columns:
